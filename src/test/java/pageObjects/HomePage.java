@@ -15,7 +15,7 @@ public class HomePage extends Basepage{
 		@FindBy(xpath="//a[normalize-space()='Log in']")
 		WebElement login;
 		
-		public void click() {	
+		public void click1() {	
 			registration .click();
 		}	
 		

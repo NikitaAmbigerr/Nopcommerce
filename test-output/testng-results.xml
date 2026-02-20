@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-02-20T17:07:31 IST" name="Default suite" finished-at="2026-02-20T17:07:45 IST" duration-ms="13962">
+  <suite started-at="2026-02-20T21:05:58 IST" name="Default suite" finished-at="2026-02-20T21:06:24 IST" duration-ms="26066">
     <groups>
     </groups>
-    <test started-at="2026-02-20T17:07:31 IST" name="Default test" finished-at="2026-02-20T17:07:45 IST" duration-ms="13962">
+    <test started-at="2026-02-20T21:05:58 IST" name="Default test" finished-at="2026-02-20T21:06:24 IST" duration-ms="26066">
       <class name="testCase.TestCase1">
-        <test-method is-config="true" signature="setup()[pri:0, instance:testCase.TestCase1@15400fff]" started-at="2026-02-20T17:07:32 IST" name="setup" finished-at="2026-02-20T17:07:43 IST" duration-ms="11850" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCase.TestCase1@61eaec38]" started-at="2026-02-20T21:05:58 IST" name="setup" finished-at="2026-02-20T21:06:19 IST" duration-ms="21174" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="Goto_Registartion_page()[pri:0, instance:testCase.TestCase1@15400fff]" started-at="2026-02-20T17:07:43 IST" name="Goto_Registartion_page" finished-at="2026-02-20T17:07:45 IST" duration-ms="1546" status="PASS">
+        <test-method signature="Goto_Registartion_page()[pri:0, instance:testCase.TestCase1@61eaec38]" started-at="2026-02-20T21:06:19 IST" name="Goto_Registartion_page" finished-at="2026-02-20T21:06:23 IST" duration-ms="4138" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Goto_Registartion_page -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:testCase.TestCase1@15400fff]" started-at="2026-02-20T17:07:45 IST" name="teardown" finished-at="2026-02-20T17:07:45 IST" duration-ms="387" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCase.TestCase1@61eaec38]" started-at="2026-02-20T21:06:23 IST" name="teardown" finished-at="2026-02-20T21:06:24 IST" duration-ms="663" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
